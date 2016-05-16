@@ -12,7 +12,7 @@ import (
 )
 
 const (
-	tabstop_length            = 8
+	tabstop_length            = 4
 	view_vertical_threshold   = 5
 	view_horizontal_threshold = 10
 )
